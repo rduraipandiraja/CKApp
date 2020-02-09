@@ -1,0 +1,235 @@
+<testdata>
+ 	<Framework>
+
+		<Signin_TestData_0>
+			<TC001_ValidLoginEmail>cktest@gmail.com</TC001_ValidLoginEmail>
+			<TC001_ValidLoginPassword>ppounds</TC001_ValidLoginPassword>
+			<TC001_InValidLoginEmail>Your Email</TC001_InValidLoginEmail>
+			<TC001_InValidLoginEmail_2>Please enter the Email ID</TC001_InValidLoginEmail_2>
+			<TC001_InValidLoginPassword>Your Password</TC001_InValidLoginPassword>
+			<TC001_InValidLoginPassword_2>Please enter the Password</TC001_InValidLoginPassword_2>
+			<TC001_InValidLoginUserEmail>easyAppium@app.com</TC001_InValidLoginUserEmail>
+			<TC001_InValidPassword>@abc123#</TC001_InValidPassword>
+			<TC001_ErrorMsgAuthenticationFailed>Authentication Failed</TC001_ErrorMsgAuthenticationFailed>
+			<TC001_LessLengthPassword>pp</TC001_LessLengthPassword>
+			<TC001_InvalidNumeric>258258</TC001_InvalidNumeric>
+			<TC001_UserName>cktestgmailcom</TC001_UserName>
+			<DefferedDeepLinkStore>Amazon</DefferedDeepLinkStore>
+		</Signin_TestData_0> 
+
+	<Signin_TestDataForFB_1>
+	
+		<TC001_ValidFBEmail>dev@pouringpounds.com</TC001_ValidFBEmail>
+		<TC001_ValidFBPassword>4NRqdDdJ$yLQFc</TC001_ValidFBPassword>
+
+		<FBTestUserEmail2>ck_xcmbecr_mallik@tfbnw.net</FBTestUserEmail2>
+
+		<FBTestUserPwd2>ppounds</FBTestUserPwd2>
+		<!-- For Beta -->
+		<!-- Following are the New Face book SignUp user - Please use the Following Different users Id to avoid conflict failure during the Execution  -->
+		<!-- System 1 : Mallik; ck_xcmbecr_mallik@tfbnw.net -->
+		<!-- System 2 : Aswin ; ck_isajpin_aswin@tfbnw.net -->
+		<!-- System 3 : Chaithanya ; ck_fwcfgzk_qa@tfbnw.net -->
+		
+		<!-- For CashKaro Staging -->
+		<!-- idtltjhqrq_1562058678@tfbnw.net -->
+		<!-- tspkfwdjhz_1562058680@tfbnw.net -->
+		
+		
+	</Signin_TestDataForFB_1>
+	
+	<SearchPage_Data_2>
+	
+		<Searchstore>offers</Searchstore>
+		
+	</SearchPage_Data_2>
+	
+	<JoinFree_3>
+	
+		<UserFullName>CashKaroAppiumTest</UserFullName>
+		<Password>ppounds</Password>
+		
+	</JoinFree_3>
+	
+	<StoreData_4>
+	
+		<RupeesSymbol>₹</RupeesSymbol>
+		<RupeesSymbol>?</RupeesSymbol>
+		<PrimaryCashbackExpiryTag>Expires in</PrimaryCashbackExpiryTag>
+		<SecondaryCashbackExpiryTag>Expires in</SecondaryCashbackExpiryTag>
+		<StoreOneVoucherCount>2</StoreOneVoucherCount>
+		<StoreTwoVoucherCount>2</StoreTwoVoucherCount>
+		<StoreThreeVoucherCount>1</StoreThreeVoucherCount>
+		<EleventhStoreVoucherTitle_One>Voucher :One</EleventhStoreVoucherTitle_One>
+		<EleventhStoreVoucherTitle_Two>Voucher :Two</EleventhStoreVoucherTitle_Two>
+		<EleventhStoreVoucherTitle_Three>Voucher :Three</EleventhStoreVoucherTitle_Three>
+		<EleventhStoreVoucherTitle_Four>Voucher :Four</EleventhStoreVoucherTitle_Four>
+		<EleventhStoreVoucherTitle_Five>Voucher :Five</EleventhStoreVoucherTitle_Five>
+		<EleventhStoreVoucherTitle_Six>Voucher :Six</EleventhStoreVoucherTitle_Six>
+		<EleventhStoreVoucherTitle_Seven>Voucher :Seven</EleventhStoreVoucherTitle_Seven>
+		<ExpiryTagInHours>Hours</ExpiryTagInHours>
+		<ExpiryTagInMinutes>Minutes</ExpiryTagInMinutes>
+		<ExpiryTagInSeconds>Seconds</ExpiryTagInSeconds>
+		<StoreURL>https://www.myntra.com/</StoreURL>
+	
+	</StoreData_4>
+	
+	<ReferralUser_5>	
+		<deepLinkURL>https://cashkaro.iamsavings.co.uk/deeplink.php</deepLinkURL>
+		<ReferralUserEmail>17_mail@pp.com</ReferralUserEmail>
+		<ReferralUserPassword>ppounds</ReferralUserPassword>
+		<ReferralUserStatus>Active</ReferralUserStatus>
+		<exitIdGenrationCashbackStore>PPS ATM CASHBACK STORE FOR EXIT ID GENERATION</exitIdGenrationCashbackStore>
+		<bonusStore>Bonus</bonusStore>
+		<signUpBonusStore>SIGN-up Bonus</signUpBonusStore>
+		<exitIdGenrationCashbackStoreShortDesc>APP CASHBACK STORE FOR EXIT ID GENERATION</exitIdGenrationCashbackStoreShortDesc>
+		<exitIdGenrationRewardsStore>PPS ATM REWARDS STORE FOR EXIT ID GENERATION</exitIdGenrationRewardsStore>
+		<exitIdGenrationRewardsStoreShortDesc>APP REWARDS STORE FOR EXIT ID GENERATION</exitIdGenrationRewardsStoreShortDesc>
+	</ReferralUser_5>
+
+
+	<Payment_6>
+		<TwoFifty>250.0</TwoFifty>
+		<TwoFiftyZero>250.00</TwoFiftyZero>
+		<Zero>0.0</Zero>
+		<ZeroZero>0.00</ZeroZero>
+		<Ten>10.0</Ten>
+		<TwoForty>240.0</TwoForty>
+		
+		<NEFTAccountHolderName>CashKaroUser</NEFTAccountHolderName>
+		<NEFTBankName>PouringPounds</NEFTBankName>
+		<NEFTBranchName>CashKaroBranch</NEFTBranchName>
+		<NEFTAccountNumber>123456789</NEFTAccountNumber>
+		<NEFTAccountIFSC>CORP0001206</NEFTAccountIFSC>
+		<AmazonGCEmail>cktest@test.com</AmazonGCEmail>
+		<CharityExceedAmount>525.00</CharityExceedAmount>
+		<MultipleZeroCharityAmount>000000000.00</MultipleZeroCharityAmount>
+		
+		<AmazonGiftCardErrorScenario_1>@g.com</AmazonGiftCardErrorScenario_1>
+		<AmazonGiftCardErrorScenario_2>s@gcom</AmazonGiftCardErrorScenario_2>
+		<AmazonGiftCardErrorScenario_3>s@.com</AmazonGiftCardErrorScenario_3>
+		<AmazonGiftCardErrorScenario_4>*%!.,</AmazonGiftCardErrorScenario_4>
+		<AmazonGiftCardErrorScenario_5>123456</AmazonGiftCardErrorScenario_5>
+		<AmazonGiftCardErrorScenario_6>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafffffffffffffd@gmail.com</AmazonGiftCardErrorScenario_6>
+		<AmazonGiftCardErrorScenario_7>458@456.789</AmazonGiftCardErrorScenario_7>
+		
+		<InvalidOTP>858525</InvalidOTP>
+	
+	</Payment_6>
+	
+	<Others_7>
+	
+	<Cashback>Cashback</Cashback>
+	<Rewards>Rewards</Rewards>
+	<startURL>https://www.</startURL>
+	<startBannertitle>PPS ATM APP SPECIFIC SUBCATEGORY ONE Offer (</startBannertitle>
+	<endBannertitle>)</endBannertitle>
+	<endURL>/</endURL>
+	<hamburgerSymbol></hamburgerSymbol>
+	<myEarningsInfo></myEarningsInfo>
+	<raiseTicketCashback>Missing a Cashback?</raiseTicketCashback>
+	<raiseTicketCashback2>RAISE TICKET</raiseTicketCashback2>
+	<raiseTicketRewards>Missing a Reward?</raiseTicketRewards>
+	<raiseTicketRewards2>RAISE TICKET</raiseTicketRewards2>
+	<RupeesSymbol>₹</RupeesSymbol>
+	<FiftyCharEmail>fsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfff@gmail.com</FiftyCharEmail>
+	<FiftyPlusUserChar>fsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfff</FiftyPlusUserChar>
+	<FiftyUserChar>abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx</FiftyUserChar>
+	
+	</Others_7>
+
+	<AdminCredentials_8>
+
+		<AdminUserName>dev</AdminUserName>
+	<AdminPassword>ppbeta3D</AdminPassword> 
+		<!-- <AdminPassword>ppstaging3D</AdminPassword> -->
+
+	</AdminCredentials_8>
+
+
+	<Count_9>
+
+		<CountOne>1</CountOne>
+		<CountThree>3</CountThree>
+		<CountSix>6</CountSix>
+		<CountSeven>7</CountSeven>
+
+	</Count_9>
+	
+	
+	<MissingCashback_10>
+
+	<TransactionId>123456</TransactionId>
+	<TransacationAmountPaid>666.00</TransacationAmountPaid>
+	<CouponCodeUsed>APPIUM333</CouponCodeUsed>
+	<TransactionDetails>This is Appium EXECUTES Your Mobile APP</TransactionDetails>
+	<ReceivedStatus>Received</ReceivedStatus>
+	<SentToRetailerStatus>Sent to retailer</SentToRetailerStatus>
+	<ResolvedStatus>Resolved</ResolvedStatus>
+	<AdminReply>This Appium Test Reply From CKBeta Admin</AdminReply>
+	<UserReply>This is User Reply</UserReply>
+	<SorryText>Sorry, we don’t see any clicks from your account on this date. Please select a valid date of transaction or you can reach us at</SorryText>
+	<TransactionIdSampleFormat_1>Test-1234-STR1</TransactionIdSampleFormat_1>
+	<TransactionIdSampleFormat_2>Test-4321-STR2</TransactionIdSampleFormat_2>
+
+	</MissingCashback_10>
+	
+	
+	<MyEarnings_11>
+
+	<Zero>0.0</Zero>
+	<TwoFiftyZeroZero>250.0</TwoFiftyZeroZero>
+	<TwoFive>25.0</TwoFive>
+	<OneZeroZeroZero>1000.0</OneZeroZeroZero>
+	<Thousand>1000</Thousand>
+	<EightHundered>800</EightHundered>
+	<FiveHundered>500</FiveHundered>
+	<TwoFifty>250</TwoFifty>
+	<Cashback>Cashback</Cashback>
+	<Rewards>Rewards</Rewards>
+	<Pending>Pending</Pending>
+	<Cancelled>Cancelled</Cancelled>
+	<Confirmed>Confirmed</Confirmed>
+	<Requested>Requested</Requested>
+	<Paid>Paid</Paid>
+	<Rupee>₹</Rupee>
+
+	</MyEarnings_11>
+	
+	<Testimonial_12>
+	
+		<OneStarFeedback>ONE STAR FEEDBACK</OneStarFeedback>
+		<TwoStarFeedback>TWO STAR FEEDBACK</TwoStarFeedback>
+		<ThreeStarFeedback>THREE STAR FEEDBACK</ThreeStarFeedback>
+		<FourStarFeedback>FOUR STAR FEEDBACK</FourStarFeedback>
+		<FiveStarFeedback>FIVE STAR FEEDBACK</FiveStarFeedback>
+		
+	</Testimonial_12>
+	
+	
+		<Notification_13>
+		
+		<BigText>Big Text</BigText>
+		<SubText>Sub Text</SubText>
+		<NotificationTitle>Notification Title</NotificationTitle>
+		<BigImage>http://desitraveler.com/wp-content/uploads/2017/01/Swati-Bhargava-Founder-CashKaro.jpg</BigImage>
+		<NotificationBody>Notification Body</NotificationBody>
+		<RedirectionalURL>cashkaro://stores/ajio</RedirectionalURL>
+		
+		<WithNotificationTemplate_HighPriority>APPIUM AUTOMATION TEST HP (APP)</WithNotificationTemplate_HighPriority>
+		<WithNotificationTemplate_HighPriority_WithoutRedirectionURLBigImageLLargeIcon>APPIUM AUTOMATION TEST WITHOUT LARGE ICON REDIRECT URL IMAGE URL (APP)</WithNotificationTemplate_HighPriority_WithoutRedirectionURLBigImageLLargeIcon>
+		<WithNotificationTemplate_HighPriority_WithoutRedirectURL>APPIUM AUTOMATION TEST WITHOUT REDIRECT URL (APP)</WithNotificationTemplate_HighPriority_WithoutRedirectURL>
+		<WithNotificationTemplate_HighPriority_RedirectionURLAtDifferentPage>APPIUM AUTOMATION TEST REDIRECT IN DIFFERENT PAGE (APP)</WithNotificationTemplate_HighPriority_RedirectionURLAtDifferentPage>
+		
+		<WithNotificationTemplate_NormalPriority>APPIUM AUTOMATION TEST NP (APP)</WithNotificationTemplate_NormalPriority>
+		<HighPriorityNotificaitonTemplateID>275</HighPriorityNotificaitonTemplateID>
+		<NormalPriorityNotificationTemplateID>276</NormalPriorityNotificationTemplateID>
+		<HighPriorityWithoutRedirectURLTemplateID>277</HighPriorityWithoutRedirectURLTemplateID>
+	
+		<DropDownValue_UserName>username</DropDownValue_UserName>
+		
+		</Notification_13>
+		
+	
+	</Framework>
+</testdata>
